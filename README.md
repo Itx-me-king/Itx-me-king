@@ -1,7 +1,5 @@
-# 💫 About Me:
-I'm a 12th-grade student <br>and the owner of Balloonflame7. <br>I'm also developing Telegram bots and Apps. with the Telegram handle @Riyal_Nobi. <br>i also have an interest in creating game<br>i have some basic Skills in python.
+#😈Aʙᴏᴜᴛ ᴜɴᴋɴᴏᴡɴ
 
-# Profile Card Generator in Python
 
 def generate_profile_card(username, name, bio, location, email, website, dp_url):
     card = f"""
@@ -20,17 +18,21 @@ def generate_profile_card(username, name, bio, location, email, website, dp_url)
     """
     return card
 
-# Example usage:
-username = "itx-me-king"
+# ᴜsᴇʀ ɪɴғᴏʀᴍᴀᴛɪᴏɴ
+username = "itx-me-king" 
 name = "team unknown"
 bio = "Student and Developer"
 location = "India 🇮🇳"
 email = "Balloonflame7india@outlook.com"
 website = "http://balloonflame7.kesug.com"
-dp_url = "https://images.app.goo.gl/23qYSBZcWHspGGkF6"  # Replace with your actual display picture URL
+dp_url = "https://images.app.goo.gl/23qYSBZcWHspGGkF6" 
 
 profile_card = generate_profile_card(username, name, bio, location, email, website, dp_url)
+
+# Print the profile card Markdown formatted for GitHub
 print(profile_card)
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Balloonflame7 ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Balloonflame7 ) 
