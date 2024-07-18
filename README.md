@@ -1,37 +1,19 @@
 #😈Aʙᴏᴜᴛ ᴜɴᴋɴᴏᴡɴ
 
+    ## Hi there, I'm {Uɴᴋɴᴏᴡɴ}! 👋
 
-def generate_profile_card(username, name, bio, location, email, website, dp_url):
-    card = f"""
-    ## Hi there, I'm {name}! 👋
-
-    - 🔭 I’m currently working on my Telegram bot project.
+    - 🔭 I’m currently working on my Telegram bot project and app , game Development project 
     - 🌱 I’m currently learning advanced Python and AI concepts.
-    - 📫 How to reach me: {email}
-    - 🌐 Website: [{website}]({website})
-    - 📍 Location: {location}
+    - 📫 How to reach me:- [email](Balloonflame7india@outlook.com)
+    - 🌐 Website: [website](https://www.balloonflame7.kesug.com/)
+    - 📍 Location: {}
     - 😄 Pronouns: He/Him
-    - ⚡ Fun fact: I love playing chess and programming!
+    - ⚡ Fun fact: I love playing nothing and programming!
 
-    ![Profile Picture]({dp_url})
+    ![Profile Picture](https://images.app.goo.gl/23qYSBZcWHspGGkF6)
 
     """
-    return card
-
-# ᴜsᴇʀ ɪɴғᴏʀᴍᴀᴛɪᴏɴ
-username = "itx-me-king" 
-name = "team unknown"
-bio = "Student and Developer"
-location = "India 🇮🇳"
-email = "Balloonflame7india@outlook.com"
-website = "http://balloonflame7.kesug.com"
-dp_url = "https://images.app.goo.gl/23qYSBZcWHspGGkF6" 
-
-profile_card = generate_profile_card(username, name, bio, location, email, website, dp_url)
-
-# Print the profile card Markdown formatted for GitHub
-print(profile_card)
-
+    return card 
 
 
 ## 🌐 Socials:
