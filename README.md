@@ -19,7 +19,7 @@ Where cc = black
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Itx-me-king &theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Itx-me-king &theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+![ᎷᎩ ᏖᏒᎧʄɨɛֆ 🤩🤩](https://github-profile-trophy.vercel.app/?username=Itx-me-king &theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -28,7 +28,7 @@ Where cc = black
 ![](https://github-contributor-stats.vercel.app/api?username=Itx-me-king &limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Balloonflame7&label=1020393929291&pretty=true)](https://visitcount.itsvg.in)
+[![Itx-me-king](https://visitcount.itsvg.in/api?id=Balloonflame7&label=1020393929291&pretty=true)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/unknownxmusic_bot) 
