@@ -1,4 +1,4 @@
-html_content = """
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -63,7 +63,6 @@ html_content = """
     </a>
 </body>
 </html>
-"""
  
 
 ## 🌐 Socials:
