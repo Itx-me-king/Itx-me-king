@@ -10,7 +10,7 @@
     - 😄 Pronouns: He/Him
     - ⚡ Fun fact: I love playing nothing and programming!
 
-    ![Profile Picture](https://images.app.goo.gl/23qYSBZcWHspGGkF6)
+    [Profile Picture](https://images.app.goo.gl/23qYSBZcWHspGGkF6)
 
   
  
