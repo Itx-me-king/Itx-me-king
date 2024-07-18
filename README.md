@@ -1,10 +1,69 @@
-#😈Aʙᴏᴜᴛ ᴜɴᴋɴᴏᴡɴ
-
- Hi there, I'm {Unknown}! 👋
-
-🔭 I’m currently working on my Telegram bot project and app game Development project<br> 🌱 I’m currently learning advanced Python and AI concepts.<br><br>📫 How to reach me:- [email](Balloonflame7india@outlook.com)<br> 🌐 Website: [website](https://www.balloonflame7.kesug.com/)<br>📍 Location:[My Location](https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3India%2F?style=flat-square&logo=Beautiful%20Logo%20like%20Indian%20flag%20tricolor&logoColor=deep%20saffron%20at%20the%20top%2C%20white%20in%20the%20middle%20and%20dark%20green%20at%20the%20bottom%20in%20equal%20proportion.&logoSize=Normal%20&label=https%3A%2F%2Fmaps.app.goo.gl%2F5yKk52cAC7i7ULar8&labelColor=White%20blue%20combo&color=White%20&cacheSeconds=1000&link=https%3A%2F%2Fmaps.app.goo.gl%2F5yKk52cAC7i7ULar8&link=https%3A%2F%2Fballoonflame7.kesug.com)<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love playing nothing and programming<br>[Profile Picture](https://images.app.goo.gl/23qYSBZcWHspGGkF6)
-
-  
+html_content = """
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Unknown</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            font-size: 36px;
+            color: #444;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        .badge {
+            margin: 5px;
+        }
+        .profile-pic {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+        }
+        .contact-info {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>😈 About Unknown</h1>
+    <p>Hi there, I'm <strong>{Unknown}!</strong> 👋</p>
+    <p>🔭 I’m currently working on my <strong>Telegram bot project</strong> and <strong>app game development project</strong>.</p>
+    <p>🌱 I’m currently learning <strong>advanced Python and AI concepts</strong>.</p>
+    
+    <div class="contact-info">
+        <p>📫 How to reach me:</p>
+        <a href="mailto:Balloonflame7india@outlook.com" class="badge">
+            <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+        </a>
+        <p>🌐 Website:</p>
+        <a href="https://www.balloonflame7.kesug.com/" class="badge">
+            <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Website">
+        </a>
+        <p>📍 Location:</p>
+        <a href="https://maps.app.goo.gl/5yKk52cAC7i7ULar8" class="badge">
+            <img src="https://img.shields.io/badge/India-FF9933?style=for-the-badge&logo=flag&logoColor=white" alt="Location">
+        </a>
+    </div>
+    
+    <p>😄 Pronouns: <strong>He/Him</strong></p>
+    <p>⚡ Fun fact: <strong>I love programming and exploring new technologies.</strong></p>
+    
+    <a href="Profile.Jpg">
+        <img src="Profile.Jpg" alt="Profile Picture" class="profile-pic">
+    </a>
+</body>
+</html>
+"""
  
 
 ## 🌐 Socials:
