@@ -25,7 +25,7 @@ Where cc = black
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Itx-me-king &limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Itx-me-king&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![Itx-me-king](https://visitcount.itsvg.in/api?id=Balloonflame7&label=1020393929291&pretty=true)](https://visitcount.itsvg.in)
