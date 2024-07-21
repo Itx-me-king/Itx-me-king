@@ -1,83 +1,16 @@
-from flask import Flask, render_template_string
-
-app = Flask(__name__)
-
-@app.route('/')
-def about():
-    html_content = '''
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>About Unknown</title>
-        <style>
-            body {
-                font-family: 'Arial', sans-serif;
-                background-color: #f4f4f9;
-                color: #333;
-                padding: 20px;
-                text-align: center;
-            }
-            h1 {
-                font-size: 36px;
-                color: #444;
-            }
-            p {
-                font-size: 18px;
-                line-height: 1.6;
-            }
-            .badge {
-                margin: 5px;
-            }
-            .profile-pic {
-                width: 150px;
-                height: 150px;
-                border-radius: 50%;
-            }
-            .contact-info {
-                margin-top: 20px;
-            }
-        </style>
-    </head>
-    <body>
-        <h1>😈 About Unknown</h1>
-        <p>Hi there, I'm <strong>Unknown!</strong> 👋</p>
-        <p>🔭 I’m currently working on my <strong>Telegram bot project</strong> and <strong>app game development project</strong>.</p>
-        <p>🌱 I’m currently learning <strong>advanced Python and AI concepts</strong>.</p>
-        
-        <div class="contact-info">
-            <p>📫 How to reach me:</p>
-            <a href="mailto:Balloonflame7india@outlook.com" class="badge">
-                <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-            </a>
-            <p>🌐 Website:</p>
-            <a href="https://www.balloonflame7.kesug.com/" class="badge">
-                <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Website">
-            </a>
-            <p>📍 Location:</p>
-            <a href="https://maps.app.goo.gl/5yKk52cAC7i7ULar8" class="badge">
-                <img src="https://img.shields.io/badge/India-FF9933?style=for-the-badge&logo=flag&logoColor=white" alt="Location">
-            </a>
-        </div>
-        
-        <p>😄 Pronouns: <strong>He/Him</strong></p>
-        <p>⚡ Fun fact: <strong>I love programming and exploring new technologies.</strong></p>
-        
-        <a href="Profile.Jpg">
-            <img src="Profile.Jpg" alt="Profile Picture" class="profile-pic">
-        </a>
-    </body>
-    </html>
-    '''
-    return render_template_string(html_content)
-
-if __name__ == '__main__':
-    app.run(debug=True)
+# About unknown
+Hi there, I'm team unknown <br>
+🔭 I’m currently working on my Telegram bot called 'nobino worm gpt ai bot', app game development. <br>
+🌱 I’m currently learning advanced Python, AI concepts.<br>
+📫 How to reach me: Balloonflame7india@outlook.com <br>
+🌐 Website: http://balloonflame7.kesug.com <br>
+📍 Location: India <br>
+😄 Pronouns: He/Him <br>
+⚡ Fun fact: I love programming and exploring new technologies.
 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Balloonflame7 ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@Balloonflame7 ) 
 
 # 💻 Tech Stack:
