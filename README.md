@@ -6,7 +6,7 @@ Hi there, I'm  unknown <br>
 🌱 I’m currently learning advanced Python, AI concepts.<br>
 📫 How to reach me: 
 
-![Email](https://img.shields.io/badge/Email-#3b60c4.svg?logo=Email&logoColor=white)(mailto:Balloonflame7india@outlook.com)
+![Email](https://img.shields.io/badge/Email-#3b60c4.svg?logo=Email&logoColor=white)(mailto:Balloonflame7india@outlook.com )
  <br>
 🌐 Website: http://balloonflame7.kesug.com <br>
 📍 Location: India <br>
