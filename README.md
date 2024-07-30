@@ -1,17 +1,17 @@
 # About unknown :
 <br>
-Hi there, I'm  unknown <br>
+<b>Hi there, I'm  unknown <br>
 
 🔭 I’m currently working on my Telegram bot called 'nobino worm gpt ai bot', app game development. <br>
 🌱 I’m currently learning advanced Python, AI concepts.<br>
 📫 How to reach me: 
 
-![Email](https://img.shields.io/badge/Email-#3b60c4.svg?logo=Email&logoColor=white)(mailto:Balloonflame7india@outlook.com )
+[![Email]( https://img.shields.io/badge/Mail-us-blue.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+)](mailto:Balloonflame7india@outlook.com )
  <br>
-🌐 Website: http://balloonflame7.kesug.com <br>
+[![🌐 website](https://img.shields.io/badge/Website-🌐-blue?logo=Balloonflame7)](http://balloonflame7.kesug.com) <br>
 📍 Location: India <br>
 😄 Pronouns: He/Him <br>
-⚡ Fun fact: I love programming and exploring new technologies.
+⚡ Fun fact: I love programming and exploring new technologies. </b>
 
 
 
