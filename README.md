@@ -1,4 +1,4 @@
-# About unknown : [![Unknown](https://github.com/Itx-me-king/itx-me-king/blob/main/Profile.jpg)]
+# About unknown : ![Unknown](https://github.com/Itx-me-king/itx-me-king/blob/main/Profile.jpg)
 <br>
 <b>Hi there, I'm  unknown <br>
 🔭 I’m currently working on my Telegram bot called 'nobino worm gpt ai bot', app game development. <br>
