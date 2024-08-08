@@ -1,7 +1,7 @@
 # About unknown :
 <br>
 <b>Hi there, I'm  unknown <br>
-
+[![Profile](profile.jpg)
 🔭 I’m currently working on my Telegram bot called 'nobino worm gpt ai bot', app game development. <br>
 🌱 I’m currently learning advanced Python, AI concepts.<br>
 📫 How to reach me: 
